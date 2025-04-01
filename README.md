@@ -1,0 +1,2 @@
+# kata-postgres
+PostgreSQL playground
